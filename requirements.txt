@@ -5,4 +5,5 @@ streamlit
 # dotenv
 # python-dotenv
 setuptools
-langchain_openai
+ChatOpenAI
+# langchain_openai
